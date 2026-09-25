@@ -6,6 +6,11 @@ A modern Android notebook app focused on a clean, flexible note-taking experienc
 
 Liquid Glass Notebook is a feature-rich Android notebook application designed with a modern UI and smooth interactions.
 
+## Project Details
+
+- Package Name: `com.notepad.glass.nine`
+- Status: Client Project — UI, features, and availability may change in the future.
+
 The project focuses on:
 
 - Clean and responsive UI
